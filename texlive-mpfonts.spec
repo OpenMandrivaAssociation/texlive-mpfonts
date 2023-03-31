@@ -1,6 +1,6 @@
 Name:		texlive-mpfonts
 Version:	54512
-Release:	1
+Release:	2
 Summary:	Computer Modern Type 3 fonts converted using MetaPost
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mpfonts
