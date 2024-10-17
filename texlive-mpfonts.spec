@@ -3,7 +3,7 @@ Version:	54512
 Release:	2
 Summary:	Computer Modern Type 3 fonts converted using MetaPost
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mpfonts
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mpfonts
 License:	knuth lppl1.3c ofl other-free pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mpfonts.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mpfonts.doc.r%{version}.tar.xz
